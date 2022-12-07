@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b71f0cf9-20ae-47b2-92d9-199599b73309" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/StoreException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/UnicornStoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/AddProductRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/AddProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/BuyerRegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/BuyerRegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/ProductPurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Vendor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/BuyerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/BuyerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/ProductRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/VendorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/service/BuyerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/store/utils/validators/UserDetailsValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/store/data/repositories/BuyerRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/store/service/BuyerServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/store/service/ProductServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FIhg0h05ZXHYlSyMsaL7cHU4Zr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="store.data.dto" />
+      <recent name="store.exception" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="store.service" />
+      <recent name="store.data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BuyerServiceImplTest">
+    <configuration name="BuyerRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unicorns.store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="store.data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="store.data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="store.data.repositories.BuyerRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyerRepositoryImplTest.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unicorns.store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="store.data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="store.data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="store.data.repositories.BuyerRepositoryImplTest" />
+      <option name="METHOD_NAME" value="deleteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyerServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unicorns.store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="store.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="store.service" />
+      <option name="MAIN_CLASS_NAME" value="store.service.BuyerServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyerServiceImplTest.registerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unicorns.store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="store.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="store.service" />
+      <option name="MAIN_CLASS_NAME" value="store.service.BuyerServiceImplTest" />
+      <option name="METHOD_NAME" value="registerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyerServiceImplTest.userWithInvalidDetailsExcetionWhenRegistratingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unicorns.store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="store.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="store.service" />
+      <option name="MAIN_CLASS_NAME" value="store.service.BuyerServiceImplTest" />
+      <option name="METHOD_NAME" value="userWithInvalidDetailsExcetionWhenRegistratingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BuyerServiceImplTest" />
+        <item itemvalue="JUnit.BuyerServiceImplTest.userWithInvalidDetailsExcetionWhenRegistratingTest" />
+        <item itemvalue="JUnit.BuyerServiceImplTest.registerTest" />
+        <item itemvalue="JUnit.BuyerRepositoryImplTest" />
+        <item itemvalue="JUnit.BuyerRepositoryImplTest.deleteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71f0cf9-20ae-47b2-92d9-199599b73309" name="Changes" comment="" />
+      <created>1664185619164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664185619164</updated>
+      <workItem from="1664185622165" duration="21685000" />
+      <workItem from="1664353626113" duration="21831000" />
+      <workItem from="1666170637978" duration="4084000" />
+      <workItem from="1668470723447" duration="3132000" />
+      <workItem from="1669164904430" duration="458000" />
+      <workItem from="1669553444559" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/store/data/repositories/BuyerRepositoryImplTest.java</url>
+          <line>75</line>
+          <properties class="store.data.repositories.BuyerRepositoryImplTest" method="deleteTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/store/data/repositories/BuyerRepositoryImplTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
