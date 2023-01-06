@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b71f0cf9-20ae-47b2-92d9-199599b73309" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/StoreException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/UnicornStoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/AddProductRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/AddProductResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/BuyerRegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/BuyerRegistrationResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/dto/ProductPurchaseRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/models/Vendor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/BuyerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/BuyerRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/ProductRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/data/repositories/VendorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/service/BuyerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/service/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/store/utils/validators/UserDetailsValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/store/data/repositories/BuyerRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/store/service/BuyerServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/store/service/ProductServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +41,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -189,6 +161,9 @@
       <workItem from="1668470723447" duration="3132000" />
       <workItem from="1669164904430" duration="458000" />
       <workItem from="1669553444559" duration="804000" />
+      <workItem from="1670390614384" duration="735000" />
+      <workItem from="1672659210002" duration="607000" />
+      <workItem from="1672987308647" duration="310000" />
     </task>
     <servers />
   </component>
